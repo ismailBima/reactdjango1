@@ -4,3 +4,5 @@ def add(a, b):
 
 def test_sum():
     assert add(1, 2) == 3
+def tet_ok():
+    pass
